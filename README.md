@@ -6,9 +6,9 @@
 
 ## 🌟 Highlights  
 
-- ⚡ At Motorola, I lead a team of 5 engineers to deliver **AI-powered search, summarization, and knowledge creation tools**, driving **million-dollar operational savings**.  
-- ⚡ Built [uiuc.chat](https://uiuc.chat), a multimodal academic chatbot on one of the **fastest supercomputers in the world (NCSA)**. Served **10,000+ students** across 12+ courses.  
-- ⚡ Published in *Springer* and *IJCA* on recommender systems, microblog classification, and knowledge-powered QA; currently authoring a **60+ paper survey on QA/Dialogue Systems**.  
+⚡ At Motorola, I lead a team of 5 engineers to deliver **AI-powered search, summarization, and knowledge creation tools**, driving **million-dollar operational savings**.  
+⚡ Built [uiuc.chat](https://uiuc.chat), a multimodal academic chatbot on one of the **fastest supercomputers in the world (NCSA)**. Served **10,000+ students** across 12+ courses.  
+⚡ Published in *Springer* and *IJCA* on recommender systems, microblog classification, and knowledge-powered QA; currently authoring a **60+ paper survey on QA/Dialogue Systems**.  
 
 ## 🛠️ Tech Stack
 
