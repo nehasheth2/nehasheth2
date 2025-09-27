@@ -10,7 +10,7 @@
 - ⚡ Built [uiuc.chat](https://uiuc.chat), a multimodal academic chatbot on one of the **fastest supercomputers in the world (NCSA)**. Served **10,000+ students** across 12+ courses.  
 - ⚡ Published in *Springer* and *IJCA* on recommender systems, microblog classification, and knowledge-powered QA; currently authoring a **60+ paper survey on QA/Dialogue Systems**.  
 
-## 🛠️ Tech Toolbox  
+## 🛠️ Tech Stack
 
 **Languages**: Python, R, SQL, PySpark, Bash  
 **Cloud**: Azure (Data Factory, Databricks, Synapse, OpenAI), AWS (Bedrock, S3, DynamoDB, Lambda, EC2)  
