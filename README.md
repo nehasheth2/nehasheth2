@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Neha Sheth  
+# 👋 Hi, I’m Neha 
 
 🚀 **Senior AI Engineer | Data Scientist | Researcher**  
 💡 My expertise lies in working with **multimodal data** to develop applied AI systems across **language, vision, and audio**.  
